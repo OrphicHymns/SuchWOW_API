@@ -1,6 +1,6 @@
 {
     "name": "SuchWOW",
-    "version": 0.1,
+    "version": 1,
     "builds": [{
         "src": "*py",
         "use": "@liudonghua123/now-flask"
